@@ -1,0 +1,19 @@
+.country-info {
+  margin-left: 16px;
+}
+
+.country-info__item {
+  display: flex;
+  align-items: center;
+
+  &--subtitle {
+    margin-right: 10px;
+    font-weight: 700;
+  }
+
+  &--name {
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+}
